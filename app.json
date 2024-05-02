@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "cmsc475-example-digitalclockcomponent-with-navigation",
+    "slug": "snack-9a2bfe70-5404-4241-8da7-0562352322ca",
+    "version": "1.0.0",
+
+
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lowkeylabs.digitalclock"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
